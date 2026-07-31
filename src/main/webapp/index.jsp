@@ -39,6 +39,7 @@
         ... in the pipeline! Woohoo!
       </p>
       <p>This is the Change from my first commit</p>
+      <p>This is the Change from my second commit</p>
       <a
         class="btn btn-primary btn-lg"
         href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology"
